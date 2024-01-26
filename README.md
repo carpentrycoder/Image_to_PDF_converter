@@ -26,7 +26,7 @@ The "Image to PDF Converter" is a simple desktop application developed in Python
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Image-to-PDF-Converter.git
+   git clone https://github.com/carpentrycoder/Image-to-PDF-Converter.git
    ```
 
 2. Navigate to the project directory:
