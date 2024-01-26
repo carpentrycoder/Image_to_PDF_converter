@@ -18,7 +18,7 @@ The "Image to PDF Converter" is a simple desktop application developed in Python
 
 ### Prerequisites
 
-- Python 3 installed
+- Python installed
 - Required Python libraries: tkinter, reportlab, Pillow (PIL)
 
 ### How to Use
